@@ -22,7 +22,8 @@ int main (){
    	    if (mapa[*it1] > highFreq) highFreq = mapa[*it1];
    	 }
       }
-      //Maps em C++ são automaticamente ordenados pela chave. Imprimimos as chaves que possuem mapped value igual a maior frequência guardada
+      //Maps em C++ sï¿½o automaticamente ordenados pela chave. 
+      //Imprimimos as chaves que possuem mapped value igual a maior frequï¿½ncia guardada
       for (it=mapa.begin(); it != mapa.end(); ++it )
          if ((*it).second == highFreq) cout << (*it).first;
       cout << " " << highFreq << endl;
