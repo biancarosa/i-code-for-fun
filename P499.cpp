@@ -23,7 +23,7 @@ int main (){
    	 }
       }
       //Maps em C++ s�o automaticamente ordenados pela chave. 
-      //Imprimimos as chaves que possuem mapped value igual a maior frequ�ncia guardada
+      //Imprimimos as chaves que possuem mapped value = maior frequ�ncia guardada
       for (it=mapa.begin(); it != mapa.end(); ++it )
          if ((*it).second == highFreq) cout << (*it).first;
       cout << " " << highFreq << endl;
