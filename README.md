@@ -1,2 +1,3 @@
-- Graph
--- P10004.cpp - A simple bicoloring/bipartition problem. Solved using a modification of DFS.
+- Graphs
+- 
+- P10004.cpp - A simple bicoloring/bipartition problem. Solved using a modification of DFS.
