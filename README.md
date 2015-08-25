@@ -8,3 +8,7 @@
 - Graphs
 - 
 - P10004.cpp - A simple bicoloring/bipartition problem. Solved using a modification of DFS.
+
+- Distances
+-
+- P264.cpp - Cool problem using the fact that the set of rational numbers is enumerable
